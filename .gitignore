@@ -1,0 +1,8 @@
+# 모든 파일 기본 제외
+*
+
+# system_prompt.txt만 허용
+!system_prompt.txt
+
+# .gitignore 파일은 항상 포함
+!.gitignore
