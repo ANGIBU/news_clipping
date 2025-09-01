@@ -4,5 +4,9 @@
 # system_prompt.txt만 허용
 !system_prompt.txt
 
+# txt 폴더와 그 내용 허용
+!txt/
+!txt/**
+
 # .gitignore 파일은 항상 포함
 !.gitignore
